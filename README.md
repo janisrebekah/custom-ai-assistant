@@ -3,6 +3,8 @@
 
 A Python-based voice assistant that can play songs, tell the time, fetch Wikipedia summaries, crack jokes, and more! Built using **speech recognition, text-to-speech, and automation libraries**.
 
+video demo: https://youtu.be/v2SSEONylu0
+
 ---
 
 ## Features
